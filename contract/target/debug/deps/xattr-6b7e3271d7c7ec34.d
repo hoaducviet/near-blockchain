@@ -1,0 +1,11 @@
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/libxattr-6b7e3271d7c7ec34.rmeta: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/libxattr-6b7e3271d7c7ec34.rlib: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/xattr-6b7e3271d7c7ec34.d: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs:

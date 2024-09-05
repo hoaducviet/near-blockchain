@@ -1,0 +1,11 @@
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/libquote-afb1c248c6db8738.rmeta: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs
+
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/quote-afb1c248c6db8738.d: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs
+
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs:

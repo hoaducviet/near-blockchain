@@ -1,0 +1,7 @@
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/libopentelemetry_semantic_conventions-d9d173c1699f4da7.rmeta: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/resource.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/trace.rs
+
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/opentelemetry_semantic_conventions-d9d173c1699f4da7.d: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/resource.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/trace.rs
+
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/lib.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/resource.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.9.0/src/trace.rs:

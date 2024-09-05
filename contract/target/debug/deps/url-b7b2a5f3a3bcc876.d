@@ -1,0 +1,11 @@
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/liburl-b7b2a5f3a3bcc876.rmeta: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs
+
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/url-b7b2a5f3a3bcc876.d: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs
+
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs:

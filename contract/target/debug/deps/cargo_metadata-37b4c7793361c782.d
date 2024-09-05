@@ -1,0 +1,9 @@
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/libcargo_metadata-37b4c7793361c782.rmeta: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/dependency.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/diagnostic.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/errors.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/messages.rs
+
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/cargo_metadata-37b4c7793361c782.d: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/dependency.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/diagnostic.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/errors.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/messages.rs
+
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/lib.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/dependency.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/diagnostic.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/errors.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/messages.rs:

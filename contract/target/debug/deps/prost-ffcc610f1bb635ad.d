@@ -1,0 +1,11 @@
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/libprost-ffcc610f1bb635ad.rmeta: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/error.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/message.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/types.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/encoding.rs
+
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/libprost-ffcc610f1bb635ad.rlib: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/error.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/message.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/types.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/encoding.rs
+
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/debug/deps/prost-ffcc610f1bb635ad.d: /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/lib.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/error.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/message.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/types.rs /Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/encoding.rs
+
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/lib.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/error.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/message.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/types.rs:
+/Users/hoaducviet/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.9.0/src/encoding.rs:

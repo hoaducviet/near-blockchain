@@ -1,0 +1,1 @@
+/Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/target/wasm32-unknown-unknown/release/libcontract.rlib: /Users/hoaducviet/Documents/Blockchains/RustBlockchain/near-blockchain/contract/src/lib.rs
